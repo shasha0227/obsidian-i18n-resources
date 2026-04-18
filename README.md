@@ -1,2 +1,2 @@
 # obsidian-i18n-resources
-自用
+自用謝謝
